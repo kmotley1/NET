@@ -19,6 +19,6 @@ Please note that this code is a simplified representation for demonstration purp
 
 For a complete and functional implementation, additional development, integration with note-taking applications, and user interfaces would be required.
 
-For inquiries or further development, please contact [Your Name and Contact Information].
+For inquiries or further development, please contact Kelly Motley at kellymotleydesigns@gmail.com or 309.253.7339.
 
 Thank you for your interest in Net.
